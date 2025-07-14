@@ -1,4 +1,3 @@
-# 04_variable_dynamic_typing.py
 # This code shows that variables in Python are dynamically typed
 
 x = 4         # x is initially an integer
